@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x2Mr-M4rouf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0x2Mr-M4roaf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### ⚡ Quick Status
 <pre>
-root@0x2Mr-M4rouf:~# whoami
+root@0x2Mr-M4roaf:~# whoami
 > I am a passionate Security Researcher & Developer.
 > Currently building automated tools for Network Security and SQL Auditing.
 </pre>
@@ -44,26 +44,26 @@ root@0x2Mr-M4rouf:~# whoami
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0x2Mr-M4rouf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x2Mr-M4rouf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0x2Mr-M4roaf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x2Mr-M4roaf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=0x2Mr-M4rouf&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=0x2Mr-M4roaf&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0x2Mr-M4rouf&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x2Mr-M4roaf&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ### 🚀 Featured Work
 <p align="left">
-  <a href="https://github.com/0x2Mr-M4rouf">
+  <a href="https://github.com/0x2Mr-M4roaf">
     <img src="https://img.shields.io/badge/Explore%20My%20Repos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -72,8 +72,8 @@ root@0x2Mr-M4rouf:~# whoami
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://github.com/0x2Mr-M4rouf">
-    <img src="https://img.shields.io/badge/GitHub-0x2Mr--M4rouf-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/0x2Mr-M4roaf">
+    <img src="https://img.shields.io/badge/GitHub-0x2Mr--M4roaf-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="mailto:dchallide468@gmail.com?subject=Security%20Audit%20Request">

@@ -85,6 +85,12 @@ root@0x2Mr-M4roaf:~# whoami
   </a>
 </p>
 
+### 🧠 Cybersecurity Profiles
+<p align="left">
+  <a href="https://tryhackme.com/p/Proffessor_HeisT">
+    <img src="https://img.shields.io/badge/TryHackMe-View_Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <i>"Breaking systems. Securing trust."</i><br/>
   <i>"The quieter you become, the more you are able to hear."</i>

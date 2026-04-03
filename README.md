@@ -76,7 +76,7 @@ root@0x2Mr-M4roaf:~# whoami
     <img src="https://img.shields.io/badge/GitHub-0x2Mr--M4roaf-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:dchallide468@gmail.com?subject=Security%20Audit%20Request">
+  <a href="mailto:maroaf.infosec@gmail.com?subject=Security%20Audit%20Request">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
